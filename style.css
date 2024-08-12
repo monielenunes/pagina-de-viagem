@@ -1,0 +1,125 @@
+body{
+    box-sizing: border-box;
+    background: #F5F4F0;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.conteudo{
+ width: 1120px;
+ margin: 88px auto;
+}
+
+.titleStyle{
+    line-height: 8px;
+}
+
+p{
+    font-size: 16px;
+    color: #333333;
+}
+
+.titleHl{
+    color:#E1624F;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2px;
+
+}
+
+.divider{
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 28px;
+    font-weight: bold;
+
+    
+}
+
+ul{
+    margin-top: 0;
+    font-size: 16px;
+    color: #0C51A7;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.bomPara{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.imgTemplo{
+    margin-top: 64px;
+}
+
+.busanImg{
+    margin-top: 40px;
+}
+
+.description{
+    text-align: center;
+    font-style: italic;   
+    padding-bottom: 40px;
+
+}
+
+
+.destinosBusan{
+   padding-top: 64px;
+   
+}
+
+.titleStyeleBusanDestino{
+    line-height: 2px;
+
+}
+
+p{
+    font-size: 16px;
+}
+
+.indiceNomes{
+    list-style: number;
+    
+}
+
+ul li::marker{
+    color: #333333;
+}
+
+ul .casais{
+    color: #591B98;
+    font-weight: bold
+}
+
+ul .familias{
+    color: #E5245E;
+    font-weight: bold
+}
+
+ul .orcamento{
+    color: #E95E10;
+    font-weight: bold
+}
+
+
+.FinalDescription{
+    text-align: center;
+}
+
+footer{
+    margin-top: 65px;
+    text-align: center;
+}
